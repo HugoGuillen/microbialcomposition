@@ -1,2 +1,3 @@
 # microbialcomposition
-Supporting code
+
+To run `InSSIght`, download the file `5.0.0_dashboard.ipynb` and run it.
